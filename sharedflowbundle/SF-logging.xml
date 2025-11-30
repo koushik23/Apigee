@@ -1,0 +1,16 @@
+<SharedFlowBundle revision="2" name="SF-logging">
+    <DisplayName></DisplayName>
+    <Description>For logging purpose</Description>
+    <CreatedAt>1764479409126</CreatedAt>
+    <LastModifiedAt>1764479409126</LastModifiedAt>
+    <Policies>
+        <Policy>JS-logging</Policy>
+    </Policies>
+    <Resources>
+        <Resource>jsc://JS-logging</Resource>
+    </Resources>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>
